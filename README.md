@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png](https://raw.githubusercontent.com/GustyCube/GustyCube/13ec005e3fb3af49bc88e4233911ff9fd47b9a57/Hi!.png)" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/GustyCube/GustyCube/13ec005e3fb3af49bc88e4233911ff9fd47b9a57/Hi!.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a web and game developer. :wink:
