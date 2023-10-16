@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/GustyCube/GustyCube/13ec005e3fb3af49bc88e4233911ff9fd47b9a57/Hi!.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a web and game developer. :wink:
+I am a web and game developer.
  
  🔭 I’m planning for a Project **Scratch Project Compiler**.
  
@@ -14,7 +14,7 @@ I am a web and game developer. :wink:
  
  👯 I’m looking to collaborate for the **Scratch Compiler**.
  
- 🤔 I’m looking for help with [SafeSearch](https://github.com/GustyCube/SafeSearch).
+ 🤔 I’m looking for additional database entries for [SafeSearch](https://github.com/GustyCube/SafeSearch).
  
  💬 Ask me about any Tech-related stuff.
 
