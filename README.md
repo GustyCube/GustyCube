@@ -57,7 +57,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: Made By [Souravdey777](https://github.com/Souravdey777)
+⭐️ Made By [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://gustycube.xyz
 [youtube]: https://youtube.com/@GustyCube
