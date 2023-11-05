@@ -14,7 +14,7 @@ I am a web and game developer.
  
  👯 I’m looking to collaborate for the **Scratch Compiler**.
  
- 🤔 I’m looking for additional database entries for [SafeSearch](https://github.com/GustyCube/SafeSearch).
+ 🤔 I’m looking for additional database entries for [SafeSearch](https://github.com/GustyCube-SafeSearch/SafeSearch).
  
  💬 Ask me about any Tech-related stuff.
 
