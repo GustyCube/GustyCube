@@ -6,41 +6,29 @@
   <img src="https://raw.githubusercontent.com/GustyCube/GustyCube/13ec005e3fb3af49bc88e4233911ff9fd47b9a57/Hi!.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a web and game developer.
+I am a full stack developer.
  
- 🔭 I’m planning for a Project **Scratch Project Compiler**.
+ 🔭 I’m working on an **AI for speeding up terminal commands**.
  
- 🌱 I’m currently learning Python.
+ 🌱 I’m currently learning Swift.
  
- 👯 I’m looking to collaborate for the **Scratch Compiler**.
+ 👯 I’m looking to collaborate for a **Scratch Compiler**.
  
- 🤔 I’m looking for additional database entries for [SafeSearch](https://github.com/GustyCube-SafeSearch/SafeSearch).
+ 🤔 I’m looking for additional database entries for my [Commands Database](https://github.com/zendev-labs/simplecli-database).
  
  💬 Ask me about any Tech-related stuff.
 
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/GustyCube?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/GustyCube)  <img src="https://img.shields.io/github/followers/GustyCube?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
 
 
-### Tech & Tools Preference
+### Tech Stack
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Java-FFA500?style=flat&logo=Java&logoColor=orange">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,svelte,apple,arduino,bash,bootstrap,cloudflare,discord,bots,discordjs,docker,electron,figma,git,github,gitlab,gradle,godot,idea,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,npm,p5js,php,postman,powershell,pycharm,py,pytorch,raspberrypi,react,robloxstudio,swift,tailwind,tensorflow,ts,ubuntu,unity,vercel,vscode,vitest,webstorm,windows,wordpress,yarn)](https://skillicons.dev)
 
-### Other Languages I know/Learning
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustyCube&show_icons=true&hide_border=true)
 
 ---
 
@@ -53,6 +41,10 @@ I am a web and game developer.
 <br/>
 
 ---
+
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustyCube&show_icons=true&hide_border=true)
+
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
