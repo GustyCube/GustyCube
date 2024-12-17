@@ -8,13 +8,13 @@
 
 I am a full stack developer.
  
- 🔭 I’m working on an **AI for speeding up terminal commands**.
+ 🔭 I’m working on an [EasilyAI](https://github.com/GustyCube/EasilyAI), an AI Code Library, and **AI Code Detector**.
  
  🌱 I’m currently learning Swift.
  
  👯 I’m looking to collaborate for a **Scratch Compiler**.
  
- 🤔 I’m looking for additional database entries for my [Commands Database](https://github.com/zendev-labs/simplecli-database).
+ 🤔 I’m looking for additional help for my [Python AI Library](https://github.com/GustyCube/EasilyAI).
  
  💬 Ask me about any Tech-related stuff.
 
