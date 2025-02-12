@@ -27,7 +27,42 @@ I am a full stack developer.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,svelte,apple,arduino,bash,bootstrap,cloudflare,discord,bots,discordjs,docker,electron,figma,git,github,gitlab,gradle,godot,idea,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,npm,p5js,php,postman,powershell,pycharm,py,pytorch,raspberrypi,react,robloxstudio,swift,tailwind,tensorflow,ts,ubuntu,unity,vercel,vscode,vitest,webstorm,windows,wordpress,yarn)](https://skillicons.dev)
+### 🌐 Web Development
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,php,wordpress,vercel,netlify,nodejs,express,npm,yarn,vitest)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+[![My Skills](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
+
+### 🗄️ Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,cloudflare)](https://skillicons.dev)
+
+### 🤖 Machine Learning & AI
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+
+### 🎮 Game Development
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,robloxstudio,p5js)](https://skillicons.dev)
+
+### 🔧 DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,nginx,postman,gradle)](https://skillicons.dev)
+
+### 📜 Version Control & Collaboration
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+### 🔌 Hardware & Embedded Systems
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+### 🖥️ Software & Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,apple)](https://skillicons.dev)
+
+### 🔵 Software & IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm)](https://skillicons.dev)
+
+### 💬 Communication & Documentation
+[![My Skills](https://skillicons.dev/icons?i=discord,discordjs,bots,md,notion,figma)](https://skillicons.dev)
+
+### 🔹 Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=swift,bash,powershell,electron)](https://skillicons.dev)
+
 
 
 ---
