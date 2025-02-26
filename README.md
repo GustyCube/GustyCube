@@ -10,7 +10,7 @@ I am a full stack developer.
  
  🔭 I’m working on an [EasilyAI](https://github.com/GustyCube/EasilyAI), an AI Code Library, and **AI Code Detector**.
  
- 🌱 I’m currently learning Swift.
+ 🌱 I’m currently learning Lua.
  
  👯 I’m looking to collaborate for a **Scratch Compiler**.
  
