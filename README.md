@@ -27,42 +27,7 @@ I am a full stack developer.
 
 ### Tech Stack
 
-### 🌐 Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,php,wordpress,vercel,netlify,nodejs,express,npm,yarn,vitest)](https://skillicons.dev)
-
-### ⚙️ Backend Development
-[![My Skills](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
-
-### 🗄️ Databases & Cloud
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,cloudflare)](https://skillicons.dev)
-
-### 🤖 Machine Learning & AI
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
-
-### 🎮 Game Development
-[![My Skills](https://skillicons.dev/icons?i=godot,unity,robloxstudio,p5js)](https://skillicons.dev)
-
-### 🔧 DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,postman,gradle)](https://skillicons.dev)
-
-### 📜 Version Control & Collaboration
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
-
-### 🔌 Hardware & Embedded Systems
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
-
-### 🖥️ Software & Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,apple)](https://skillicons.dev)
-
-### 🔵 Software & IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm)](https://skillicons.dev)
-
-### 💬 Communication & Documentation
-[![My Skills](https://skillicons.dev/icons?i=discord,discordjs,bots,md,notion,figma)](https://skillicons.dev)
-
-### 🔹 Miscellaneous
-[![My Skills](https://skillicons.dev/icons?i=swift,bash,powershell,electron)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,php,wordpress,vercel,netlify,nodejs,express,npm,yarn,vitest,java,python,mysql,mongodb,cloudflare,tensorflow,pytorch,godot,unity,robloxstudio,p5js,docker,nginx,postman,gradle,git,github,gitlab,arduino,raspberrypi,linux,ubuntu,windows,apple,vscode,webstorm,idea,pycharm,discord,discordjs,bots,md,notion,figma,swift,bash,powershell,electron)](https://skillicons.dev)
 
 
 ---
