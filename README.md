@@ -31,7 +31,6 @@ I am a full stack developer.
 
 ### You can find in me in the web 🌍
 <img align="left" alt="GustyCube" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Website]
-<img align="left" alt="GustyCube" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Youtube]
 
 
 <br/>
@@ -47,5 +46,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 
-[website]: https://gustycube.xyz
-[youtube]: https://youtube.com/@GustyCube
+[website]: https://gustycube.com
