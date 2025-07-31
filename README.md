@@ -38,7 +38,7 @@ const gustyCube = {
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=GustyCube&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=GustyCube&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </td>
 <td align="center" width="50%">
 
