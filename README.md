@@ -27,7 +27,7 @@ const gustyCube = {
     },
     openToCollaborate: true,
     askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
-    location: "Global 🌍"
+    location: "United States 🌍"
 };
 ```
 
