@@ -1,49 +1,158 @@
-### Hey it's GustyCube here 👋
+<div align="center">
+  
+# 👋 Hello, I'm GustyCube
+
+### Full Stack Developer | AI Enthusiast | Open Source Contributor
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 ---
 
-I am a full stack developer.
- 
- 🔭 I’m working on an [EasilyAI](https://github.com/GustyCube/EasilyAI), an AI Code Library, and **AI Code Detector**.
- 
- 🌱 I’m currently learning Lua.
- 
- 👯 I’m looking to collaborate for a **Scratch Compiler**.
- 
- 🤔 I’m looking for additional help for my [Python AI Library](https://github.com/GustyCube/EasilyAI).
- 
- 💬 Ask me about any Tech-related stuff.
+<img src="https://komarev.com/ghpvc/?username=GustyCube&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/GustyCube?label=Followers&style=social" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/GustyCube?label=Stars&style=social" alt="GitHub stars" />
 
+</div>
 
-![Profile views](https://gpvc.arturio.dev/GustyCube)  <img src="https://img.shields.io/github/followers/GustyCube?label=Follow" style=" float:left, margin-right:10px" />
+## 🚀 About Me
 
+```typescript
+const gustyCube = {
+    name: "GustyCube",
+    role: "Full Stack Developer",
+    currentFocus: ["AI Development", "Code Detection Systems", "Lua Programming"],
+    activeProjects: {
+        main: "EasilyAI - AI Code Library & Detector",
+        collaboration: "Scratch Compiler Development"
+    },
+    openToCollaborate: true,
+    askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
+    location: "Global 🌍"
+};
+```
+
+<div align="center">
+
+## 🎯 Current Endeavors
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GustyCube&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</td>
+<td align="center" width="50%">
+
+### 🔭 Working On
+- **EasilyAI**: AI Code Library & Detection System
+- **Code Innovation**: Building next-gen development tools
+
+### 🌱 Currently Learning
+- **Lua Programming**: Expanding scripting capabilities
+- **Advanced AI Architectures**
+
+### 👯 Open for Collaboration
+- **Scratch Compiler** development
+- **Python AI Libraries** enhancement
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Frontend Technologies
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind)](https://skillicons.dev)
+
+### Backend & DevOps
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,docker,nginx)](https://skillicons.dev)
+
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,swift,bash,powershell)](https://skillicons.dev)
+
+### AI & Machine Learning
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+
+### Game Development
+[![Game Dev](https://skillicons.dev/icons?i=godot,unity,robloxstudio)](https://skillicons.dev)
+
+### Cloud & Deployment
+[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare)](https://skillicons.dev)
+
+### Development Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab)](https://skillicons.dev)
+
+### Hardware & Systems
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,apple)](https://skillicons.dev)
+
+### Design & Collaboration
+[![Design](https://skillicons.dev/icons?i=figma,notion,discord,md)](https://skillicons.dev)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=GustyCube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustyCube&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustyCube&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GustyCube&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Stats
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustyCube&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustyCube&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustyCube&theme=tokyonight" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-gustycube.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustycube.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GustyCube-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustyCube)
+
+</div>
 
 ---
 
+<div align="center">
 
-### Tech Stack
+### 💡 "Let's connect and forge the future together! 🚀"
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,php,wordpress,vercel,netlify,nodejs,express,npm,yarn,vitest,java,python,mysql,mongodb,cloudflare,tensorflow,pytorch,godot,unity,robloxstudio,p5js,docker,nginx,postman,gradle,git,github,gitlab,arduino,raspberrypi,linux,ubuntu,windows,apple,vscode,webstorm,idea,pycharm,discord,discordjs,bots,md,notion,figma,swift,bash,powershell,electron)](https://skillicons.dev)
+**⭐ Don't forget to star repositories you find interesting!**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
----
-
-
-### You can find in me in the web 🌍
-<img align="left" alt="GustyCube" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Website]
-
-
-<br/>
-
----
-
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustyCube)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GustyCube&show_icons=true&hide_border=true)
-
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-
-[website]: https://gustycube.com
+</div>
