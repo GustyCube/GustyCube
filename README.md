@@ -22,8 +22,8 @@ const gustyCube = {
     role: "Full Stack Developer",
     currentFocus: ["AI Development", "Code Detection Systems", "Educational Tools"],
     activeProjects: {
-        main: "Anchor Planner",
-        collaboration: "Codect"
+        main: "Anchor Planner | Assignment planner app",
+        collaboration: "EasilyAI | AI library to help beginners learn"
     },
     openToCollaborate: true,
     askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
