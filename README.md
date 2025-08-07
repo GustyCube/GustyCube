@@ -91,6 +91,8 @@ const gustyCube = {
 ### Design & Collaboration
 [![Design](https://skillicons.dev/icons?i=figma,notion,discord,md)](https://skillicons.dev)
 
+*I probably forgot something*
+
 </div>
 
 ## 📊 GitHub Analytics
