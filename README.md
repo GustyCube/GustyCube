@@ -65,10 +65,10 @@ const gustyCube = {
 <div align="center">
 
 ### Frontend Technologies
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,md,nextjs)](https://skillicons.dev)
 
 ### Backend & DevOps
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,docker,nginx)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=py,nodejs,express,php,mysql,mongodb,docker,nginx,go,lua,prisma)](https://skillicons.dev)
 
 ### Programming Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,swift,bash,powershell)](https://skillicons.dev)
@@ -80,10 +80,10 @@ const gustyCube = {
 [![Game Dev](https://skillicons.dev/icons?i=godot,unity,robloxstudio)](https://skillicons.dev)
 
 ### Cloud & Deployment
-[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase,gcp)](https://skillicons.dev)
 
 ### Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab,yarn,npm,bun,maven.gradle,pnpm)](https://skillicons.dev)
 
 ### Hardware & Systems
 [![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,apple)](https://skillicons.dev)
