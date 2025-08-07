@@ -20,10 +20,10 @@
 const gustyCube = {
     name: "GustyCube",
     role: "Full Stack Developer",
-    currentFocus: ["AI Development", "Code Detection Systems", "Lua Programming"],
+    currentFocus: ["AI Development", "Code Detection Systems", "Educational Tools"],
     activeProjects: {
-        main: "EasilyAI - AI Code Library & Detector",
-        collaboration: "Scratch Compiler Development"
+        main: "Anchor Planner",
+        collaboration: "Codect"
     },
     openToCollaborate: true,
     askMeAbout: ["Tech", "AI", "Full Stack Development", "Open Source"],
