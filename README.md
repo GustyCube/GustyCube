@@ -83,7 +83,7 @@ const gustyCube = {
 [![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase,gcp)](https://skillicons.dev)
 
 ### Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab,yarn,npm,bun,maven.gradle,pnpm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab,yarn,npm,bun,maven,gradle,pnpm)](https://skillicons.dev)
 
 ### Hardware & Systems
 [![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,apple)](https://skillicons.dev)
