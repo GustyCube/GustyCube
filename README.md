@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies;Absolute+Nerd;Fast-Learning+Problem+Solver;Builder+of+Nerdy+but+Useful+Tools;Open+Source+is+Oxygen;Full-Time+Developer%2C+Part-Time+Superhero;Inventor+of+Random+Late-Night+Projects;AI+%2B+Human+%3D+%F0%9F%92%A1;Exploring+Neural+Networks+%26+Nerd+Networks;Dreaming+in+TypeScript;Solving+Problems+One+Commit+at+a+Time;Your+friendly+neighborhood+coder;Why+are+you+still+reading+this%3F;Seriously%2C+find+something+to+do%21" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies;Absolute+Nerd;Fast-Learning+Problem+Solver;Builder+of+Nerdy+but+Useful+Tools;Open+Source+is+Oxygen;Full-Time+Developer%2C+Part-Time+Superhero;Inventor+of+Random+Late-Night+Projects;AI+%2B+Human+%3D+%F0%9F%92%A1;Exploring+Neural+Networks+%26+Nerd+Networks;Dreaming+in+TypeScript;Solving+Problems+One+Commit+at+a+Time;Your+friendly+neighborhood+coder;Why+are+you+still+reading+this%3F;Seriously%2C+find+something+to+do%21;...Still+here%3F+Okay%2C+fine.+One+more+build." alt="Typing SVG" />
 
 ---
 
