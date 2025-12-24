@@ -60,38 +60,34 @@ const gustyCube = {
 
 </div>
 
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
-### Frontend Technologies
-[![Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,svelte,react,bootstrap,tailwind,md,nextjs)](https://skillicons.dev)
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,ts)](https://skillicons.dev)
 
-### Backend & DevOps
-[![Backend Skills](https://skillicons.dev/icons?i=py,nodejs,express,php,mysql,mongodb,docker,nginx,go,lua,prisma)](https://skillicons.dev)
+**React** • **Next.js** • **Tailwind CSS** • **TypeScript**
 
-### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,swift,bash,powershell)](https://skillicons.dev)
+### Backend
+[![Backend](https://skillicons.dev/icons?i=go,py)](https://skillicons.dev)
 
-### AI & Machine Learning
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+**Go** • **Python**
 
-### Game Development
-[![Game Dev](https://skillicons.dev/icons?i=godot,unity,robloxstudio)](https://skillicons.dev)
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
 
-### Cloud & Deployment
-[![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase,gcp)](https://skillicons.dev)
+**PostgreSQL** • **MongoDB** • **Redis**
 
-### Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,postman,git,github,gitlab,yarn,npm,bun,maven,gradle,pnpm)](https://skillicons.dev)
+### Infra
+[![Infra](https://skillicons.dev/icons?i=linux,docker,cloudflare)](https://skillicons.dev)
 
-### Hardware & Systems
-[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,windows,apple)](https://skillicons.dev)
+**Linux** • **Docker** • **Cloudflare**
 
-### Design & Collaboration
-[![Design](https://skillicons.dev/icons?i=figma,notion,discord,md)](https://skillicons.dev)
+### Environment
+[![Environment](https://skillicons.dev/icons?i=apple,vscode)](https://skillicons.dev)
 
-*I probably forgot something*
+**macOS** • **VS Code**
 
 </div>
 
