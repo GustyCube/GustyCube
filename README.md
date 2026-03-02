@@ -147,7 +147,7 @@ const gustyCube = {
 
 <div align="center">
 
-### 💡 "Let's connect and forge the future together! 🚀"
+### 💡 "Intelligence is the ability to adapt and change" – Stephen Hawking
 
 **⭐ Don't forget to star repositories you find interesting!**
 
