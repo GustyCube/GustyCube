@@ -97,10 +97,10 @@ const gustyCube = {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=GustyCube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-steel-eight-13.vercel.app/api?username=GustyCube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustyCube&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-steel-eight-13.vercel.app/api/top-langs/?username=GustyCube&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -133,7 +133,6 @@ const gustyCube = {
 </tr>
 </table>
 </div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
