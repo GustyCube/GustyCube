@@ -6,6 +6,8 @@
 
 <br/>
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/GustyCube.svg)](https://ghcommits.com)
+
 <a href="https://gustycube.com"><img src="https://img.shields.io/badge/Website-gustycube.com-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/GustyCube"><img src="https://img.shields.io/github/followers/GustyCube?label=Followers&style=flat-square&color=0e75b6" /></a>
 <a href="https://github.com/GustyCube?tab=stars"><img src="https://img.shields.io/github/stars/GustyCube?label=Stars&style=flat-square&color=00D4FF" /></a>
